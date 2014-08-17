@@ -22,3 +22,6 @@ This method returns the similarity between two input entry vectors using Gaussia
 
 ##### dataset3Params.m 
 This method returns optimal C and sigma parameters to use for Dataset 3. The optimal learning parameter pair is found by iterating through all possible combinations of candidate values of C and sigma and minimizing the prediction error, which is given by svmPrediction function.
+
+> ex6 spam.m - Octave script for the second half of the exercise
+> spamTrain.mat - Spam training set
