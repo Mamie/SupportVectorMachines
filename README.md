@@ -34,3 +34,9 @@ This method returns optimal C and sigma parameters to use for Dataset 3. The opt
 > getVocabList.m - Load vocabulary list<br\ >
 > porterStemmer.m - Stemming function<br\ >
 > readFile.m - Reads a file into a character string<br\ >
+
+##### processEmail.m 
+Email preprocessing
+##### emailFeatures.m
+Feature extraction from emails
+
